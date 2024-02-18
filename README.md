@@ -32,4 +32,4 @@ This website is a single page news site that allows users to filter top news sto
 The main purpose of this project was to make an Ajax request to fetch data from The New York Times API, populate the page with the returned data according to the user’s selected category, and handle the outcome should the request fail. Furthermore this was also the first project in which I used a preprocessor (SASS), taskrunner (Gulp) and  version control (Git/GitHub).
 
 ## Link
-[NYT-API]()
+[NYT-API](https://mahmoud-khalifa19.github.io/NYT-API/)
